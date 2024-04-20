@@ -1,5 +1,5 @@
 # SVM-Parameter-Optimization
-## This repository contains Python code to optimize a Support Vector Machine (SVM) classifier using the Mushroom dataset. 
+## This repository contains Python code to optimize a Support Vector Machine (SVM) classifier using the Human-activity-recognition-with-smartphone dataset. 
 ### Final Dataframe
 ![image](https://github.com/ShauryaChichra/SVM-Parameter-Optimization/assets/98745979/17eaef4b-ed7c-4385-adb8-ab879b5f95c3)
 
